@@ -163,6 +163,7 @@ body {
     display: block; }
   .realtors__sold {
     font-size: 1.2rem;
+    letter-spacing: 1px;
     text-transform: uppercase;
     color: #aaa;
     margin-top: -3px; }
