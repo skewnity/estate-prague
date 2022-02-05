@@ -293,7 +293,6 @@ body {
   grid-gap: 7rem; }
 
 .home {
-  background-color: #f9f7f6;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 3.5rem; }
